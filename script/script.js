@@ -23,7 +23,7 @@ $(document).ready(function() {
 				title: 'To już prawie koniec!',
 				imageUrl: './images/progress-bar.png',
   				imageWidth: 400,
-  				imageHeight: 70,
+  				imageHeight: 75,
   				imageAlt: 'Progress bar',
 				html: '<span>Na Twój adres e-mail został wysłany link aktywacyjny! Kliknij w niego, aby potwierdzić subskrypcję i odebrać rabat na pierwsze zakupy.</span><br/><br/><span><b>Przejdź do swojej skrzynki pocztowej:</b></span>',
 
